@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Account.css">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jqueryui.min.js"></script>
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#register").on("click", function () {
+                $(".login").hide(1000);
+                $(".signup").show(1000);
+            });
+            $("#btnbck").on("click", function () {
+                $(".signup").hide(1000);
+                $(".login").show(1000);
+            });
+            $('#runit').click(function () {
+                window.location.href = '/';
+                return false;
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container-fluid">
+        <nav class="navbar navbar-fixed-top navbar-inverse">
+            <span class="navbar-text glyphicon glyphicon-th white pull-left"></span>
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <span class="navbar-brand">CodePlayer</span>
+                </div>
+                <ul class="nav navbar-nav pull-right">
+                    <li style="padding-right: 5px;"><button class="btn navbar-btn btn-success" id="runit"><span class="glyphicon glyphicon-play"></span> Run as anonymous user</button></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    </body>
+</html>

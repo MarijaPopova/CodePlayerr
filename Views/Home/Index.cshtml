@@ -1,0 +1,124 @@
+﻿@{
+    ViewBag.Title = "Code Player";
+}
+@model IEnumerable<CodePlayer.Models.Post>
+<link rel="stylesheet" type="text/css" href="~/Content/myStyle.css">
+@if (User.Identity.IsAuthenticated)
+{
+    <script>
+        $("#menu-btn").on("click", function () {
+            $("#sidebar").slideToggle();
+        });
+
+        var obj = [];
+        function Post(id, html, css, js) {
+            this.id = id;
+            this.html = html;
+            this.css = css;
+            this.js = js;
+        };
+
+        function get(order) {
+            console.log(obj[order - 1]);
+            $("#html").text(obj[order - 1].html);
+            $("#css").text(obj[order - 1].css);
+            $("#js").text(obj[order - 1].js);
+        };
+
+        function Add(id, html, css, js) {
+           var html1= function replaceAll(html, "&lt", "<") {
+                return str.replace(new RegExp("&lt", 'g'), "<");
+           }
+           var html2 = function replaceAll(html, "&gt", ">") {
+               return str.replace(new RegExp("&gt", 'g'), ">");
+           }
+            var post = new Post(id, html2, css, js);
+            console.log(post);
+            obj.push(post);
+        };
+</script>
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="padding:35px 50px;">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4><span class="glyphicon glyphicon-save-file"></span>Save project</h4>
+                </div>
+                <div class="modal-body" style="padding:40px 50px;">
+                    <form role="form">
+                        <div id="success-record" class="alert alert-success">
+                            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                            <strong>Success!</strong> Project saved to the database.
+                        </div>
+                        <div class="form-group">
+                            <label for="projname">Project name:</label>
+                            <textarea id="nameforProject" class="form-control" rows="1"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="htmlcode"> HTML</label>
+                            <textarea id="htmlcode" class="form-control" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="csscode">CSS</label>
+                            <textarea id="csscode" class="form-control" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="jscode">JS</label>
+                            <textarea id="jscode" class="form-control" rows="3"></textarea>
+                        </div>
+                        <button id="savethis" type="submit" class="btn btn-success btn-block">Save Project</button>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<div id="sidebar">
+    
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div style="display: none">
+            @foreach (var item in Model)
+            {
+                <script>
+                Add('@item.PostID', '@item.Html', '@item.CSS', '@item.JS');
+                </script>
+            }
+        </div>
+        <h3 class="sidebar-brand" style="width: 100%; border-bottom: 1px solid #999;"><a>@Html.Encode(User.Identity.Name)'s Projects:</a></h3>
+        <ul class="sidebar-nav">
+            @foreach (var item in Model)
+                {
+                <li><a onclick="get(@item.PostID)">@item.Name</a></li>
+            }
+        </ul>
+    }
+</div>
+<div class="break"></div>
+<div class="row">
+    <div class="codecontainer" id="htmlContainer">
+        <span class="containerTitle">HTML</span>
+        <textarea class="code" id="html"></textarea>
+    </div>
+    <div class="codecontainer" id="cssContainer">
+        <span class="containerTitle">CSS</span>
+        <textarea class="code" id="css"></textarea>
+    </div>
+    <div class="codecontainer" id="jsContainer">
+        <span class="containerTitle">JS</span>
+        <textarea class="code" id="js"></textarea>
+    </div>
+    <div class="codecontainer" id="resultContainer">
+        <span class="containerTitle">Result</span>
+        <div class="resultContainer">
+            <iframe id="resultFrame"></iframe>
+        </div>
+    </div>
+</div>

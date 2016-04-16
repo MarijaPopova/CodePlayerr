@@ -1,0 +1,122 @@
+﻿
+@{
+    ViewBag.Title = "Log In - CodePlayer";
+}
+
+<body>
+    <style>
+        video#bgvid {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -100;
+            -ms-transform: translateX(-50%) translateY(-50%);
+            -moz-transform: translateX(-50%) translateY(-50%);
+            -webkit-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+            background: url(../../lines-of-code.jpg) no-repeat;
+            background-size: cover;
+        }
+
+        #login {
+            display: block;
+            background: rgba(230,230,230, 0.8);
+            top: 100px;
+            padding: 5px;
+            position: relative;
+        }
+
+        #panel {
+            float: left;
+            padding: 10px;
+            position: relative;
+            width: 50%;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        #btn {
+            display: block;
+            position: relative;
+            padding: 9px;
+            width: 100%;
+            text-align: center;
+            background: #3399FF;
+            color: white;
+            font-weight: bold;
+            bottom: 0px;
+        }
+    </style>
+    <script>
+        $(document).ready(function (){
+            $("#register").on("click", function(){
+               $(".login").hide(1000);
+               $(".signup").show(1000);
+            });
+            $(".back").on("click", function(){
+                $(".signup").hide(1000);
+                $(".login").show(1000);
+            });
+        });
+    </script>
+    <div class="container-fluid">
+        <nav class="navbar navbar-fixed-top navbar-inverse">
+            <span class="navbar-text glyphicon glyphicon-th white pull-left"></span>
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <span class="navbar-brand">CodePlayer</span>
+                </div>
+                <ul class="nav navbar-nav pull-right">
+                    <li style="padding-right: 5px;"><button class="btn navbar-btn btn-info" id="save"><span class="glyphicon glyphicon-floppy-disk"></span></button></li>
+                    <li style="padding-right: 5px;"><button class="btn navbar-btn btn-success" id="run"><span class="glyphicon glyphicon-play"></span> Run</button></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="row">
+            <div class="col-md-offset-3 col-md-6" id="login">
+                <div id="panel">
+                    <h1>Log in page</h1>
+                    <p>
+                        Log in with your account to save and review your work, or start a new project.
+                        That way you can code from anywhere on the go.
+                    </p><br />
+                    <p>
+                        Don't have an account yet? <a id="register" href="#">Sign Up</a> here!
+                    </p>
+                </div>
+                <div style="border-left: 1px solid #cdc9c9; line-height: 30px;" class="form-group login" id="panel">
+                    <label for="username">Username:</label>
+                    <input class="form-control" id="username" type="text" />
+                    <label for="password">Password:</label>
+                    <input class="form-control" id="password" type="password" />
+                    <span style="position: relative; right: 0px;"><a href="#">Forgot your password?</a></span>
+                    <span id="btn">Log In</span>
+                </div>
+                <div style="display: none; border-left: 1px solid #cdc9c9; line-height: 30px;" class="form-group signup" id="panel">
+                    <label for="name">Name:</label>
+                    <input class="form-control" id="name" type="text" />
+                    <label for="sur">Surname:</label>
+                    <input class="form-control" id="sur" type="text" />
+                    <label for="email">Email:</label>
+                    <input class="form-control" id="email" type="text" />
+                    <label for="psw">Password:</label>
+                    <input class="form-control" id="psw" type="password" />
+                    <label for="psw">Retype password:</label>
+                    <input class="form-control" id="psw" type="password" />
+                    <span><a href="#">Agree to Terms?</a></span><input style="padding: 5px;" id="terms" type="checkbox" />
+                    <span id="btn">Sign Up</span>
+                    <span class="btn back"><span class="glyphicon glyphicon-arrow-left"></span>Back</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <video autoplay preload="metadata" loop poster="../lines-of-code.jpg" id="bgvid">
+        <source type="video/webm" src="../../videos/1.webm" />
+        <source type="video/mp4" src="../../videos/1.mp4" />
+    </video>
+</body>
+

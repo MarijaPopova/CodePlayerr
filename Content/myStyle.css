@@ -1,0 +1,160 @@
+﻿* {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light","Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#success-record {
+    display: none;
+}
+
+.modal-header, h4, .close {
+    background-color: #5cb85c;
+    color: white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+.modal-footer {
+    background-color: #f9f9f9;
+}
+
+
+.break {
+    clear: both;
+}
+
+.codecontainer {
+    width: 50%;
+    float: left;
+    position: relative;
+}
+
+    .codecontainer textarea {
+        width: 100%;
+        height: 100%;
+    }
+
+.code {
+    border-left: 1px solid grey;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 1.3em;
+    font-family: "Monaco", "Courier New", "Courier", monospace;
+}
+
+#cssContainer, #jsContainer {
+    display: none;
+}
+
+.white {
+    color: #fff;
+}
+
+.containerTitle {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-color: #FFF;
+    padding: 4px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.selector:focus,
+.selector:active {
+    color: #999;
+}
+
+.active:hover {
+    color: black;
+}
+
+#resultFrame {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-left: 1px solid grey;
+}
+
+.resultContainer {
+    height: 100%;
+}
+
+textarea {
+    border: none;
+    resize: none;
+    font-size: 100%;
+}
+
+#success-record {
+    display: none;
+}
+
+.modal-header, h4, .close {
+    background-color: #5cb85c;
+    color: white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+.modal-footer {
+    background-color: #f9f9f9;
+}
+
+#sidebar {
+    display: none;
+    left: 0px;
+    top: 30px;
+    float: left;
+    width: 300px;
+    height: 100%;
+    background: rgb(52, 52, 52);
+    padding: 0;
+    position: absolute;
+    z-index: 100;
+    color: white;
+}
+
+.sidebar-nav {
+    position: absolute;
+    width: 300px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-brand {
+    position: relative;
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+}
+
+    .sidebar-brand a {
+        margin-left: 3%;
+        text-decoration: none;
+        color: #999999;
+    }
+
+        .sidebar-brand a:hover {
+            color: #fff;
+            background: none;
+        }
+
+.sidebar-nav li {
+    line-height: 50px;
+    text-indent: 20px;
+}
+
+    .sidebar-nav li a {
+        color: #999999;
+        display: block;
+        text-decoration: none;
+    }
+
+        .sidebar-nav li a:hover {
+            color: #fff;
+            background: rgba(255,255,255,0.2);
+            text-decoration: none;
+        }

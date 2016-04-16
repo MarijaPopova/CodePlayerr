@@ -1,0 +1,73 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+   
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/codeplayer.js"></script>
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+  
+</head>
+<body>
+    
+
+    <div class="container-fluid" id="container">
+        <nav class="navbar navbar-fixed-top navbar-inverse">
+            <span id="menu-btn" class="navbar-brand glyphicon glyphicon-th white pull-left"></span>
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <span class="navbar-brand">CodePlayer</span>
+                </div>
+
+                <ul class="nav navbar-nav">
+                    <li class="selector active" name="html"><a href="#">HTML</a></li>
+                    <li class="selector" name="css"><a href="#">CSS</a></li>
+                    <li class="selector" name="js"><a href="#">JS</a></li>
+                    <li class="selector active" name="result"><a href="#">Result</a></li>
+                </ul>
+                @if (User.Identity.IsAuthenticated)
+                {
+                   
+                    <ul class="nav navbar-nav pull-right">
+                        <li style="padding-right: 5px;"><button class="btn navbar-btn btn-info" id="save"><span class="glyphicon glyphicon-floppy-disk"></span></button></li>
+                        <li style="padding-right: 5px;"><button class="btn navbar-btn btn-success" id="run"><span class="glyphicon glyphicon-play"></span> Run</button></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="user">
+                                <i class="fa fa-user fa-fw"></i>@Html.Encode(User.Identity.Name)<span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="user">
+                                <li>
+                                    <a tabindex="-1" href="#"><i class="fa fa-eye fa-fw"></i> User</a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <i class="glyphicon glyphicon-chevron-right">@Html.ActionLink("Sign Out", "SignOut", "Account")</i>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                }
+                else
+                {
+                    <ul class="nav navbar-nav pull-right">
+                        <li><p class="navbar-text">Already have an account?</p></li>
+                        <li class="dropdown">
+                            <a href="/Account/Login"><b>Login</b> <span class="glyphicon glyphicon-log-in"></span></a>
+                        <li style="padding-right: 5px;"><button class="btn navbar-btn btn-success" id="run"><span class="glyphicon glyphicon-play"></span> Run</button></li>
+                    </ul>
+                }
+
+            </div>
+        </nav>
+       
+        @RenderBody()
+    </div>
+</body>
+</html>

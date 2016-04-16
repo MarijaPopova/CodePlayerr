@@ -1,0 +1,319 @@
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\CodePlayer.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+c:\users\popov\documents\visual studio 2015\Projects\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\Home\Desktop\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\ikicu\OneDrive\Документи\CodePlayer\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\Users\angel\Desktop\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\GitHub Projects\ITProject\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\Popov\Documents\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\angel\Desktop\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\Filip\Downloads\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\csc.exe
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\vbc.exe
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll.config
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\CodePlayer.pdb
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Razor.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Helpers.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\bin\System.Web.Mvc.xml
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.dll
+C:\Users\Popov\Downloads\ITProject-master\ITProject-master\ITProject-master\CodePlayer\CodePlayer\obj\Debug\CodePlayer.pdb

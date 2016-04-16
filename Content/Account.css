@@ -1,0 +1,55 @@
+﻿video#bgvid {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(../../lines-of-code.jpg) no-repeat;
+    background-size: cover;
+}
+
+#login {
+    display: block;
+    background: rgba(230,230,230, 0.8);
+    top: 100px;
+    padding: 5px;
+    position: relative;
+}
+
+#panel {
+    float: left;
+    padding: 10px;
+    position: relative;
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btnz {
+    display: block;
+    position: relative;
+    padding: 9px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    bottom: 0px;
+}
+
+#btnbck {
+    display: block;
+    position: relative;
+    padding: 9px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    bottom: 0px;
+}
